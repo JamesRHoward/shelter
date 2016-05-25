@@ -1,0 +1,64 @@
+/*p {
+  text-align: center;
+  padding-bottom: 100px;
+}*/
+
+body {
+  background-color: grey;
+  float: center;
+}
+
+img {
+  width: 280px;
+
+}
+
+h1, h2 {
+  font-size: 60px;
+  text-align: center;
+  color: orange;
+}
+
+h3 {
+  padding-left: 20px;
+  font-size: 42px;
+  color: white;
+}
+
+p {
+  padding-left: 20px;
+  font-size: 36px;
+  color: purple;
+}
+
+
+.test1 {
+  width: 300px;
+  float: left;
+  padding-left: 125px;
+
+
+  }
+.test2 {
+  width: 300px;
+  float: left;
+  padding-left: 200px;
+  }
+
+.test3 {
+  width: 300px;
+  float: left;
+  padding-left: 200px;
+    }
+
+.test4 {
+    width: 300px;
+    float: left;
+    padding-left: 200px;
+      }
+
+.test5 {
+  width: 300px;
+  float: left;
+  padding-left: 200px;
+     }
